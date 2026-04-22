@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/Lorenzoa93100/Lorenzoa93100/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/Lorenzoa93100/Lorenzoa93100/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/Lorenzoa93100/Lorenzoa93100/output/github-contribution-grid-snake.svg" />
 </picture>
